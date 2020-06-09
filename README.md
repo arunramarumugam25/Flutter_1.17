@@ -7,7 +7,7 @@
 Easy to switch between flutter channels (i.e beta,dev,stable)
 ## 2. Metal Support on IOS
 Graphic API Which have speeded up the flutter performance on IOS by 50%, Before this OpenGL(Open Graphics Library) was used for graphics rendering.
-## 3. New Materail Widgets
+## 3. New Material Widgets
 NavigationRail, Updated Datepicker design, Modern Text theming,Textoverflow and scrolling issues were solved
 ## 4. New Network tool in dev channel
 Through which you can check all the network requests happening in the code.
